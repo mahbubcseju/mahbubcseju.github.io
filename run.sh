@@ -1,4 +1,4 @@
-ki=$1
+
 git add --all
-git commit  -m ki
+git commit  -m ${1}
 git push origin master
