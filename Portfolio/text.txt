@@ -1,0 +1,13 @@
+    
+         <li> Placed 3rd in IUT 9th ICT FEST 2017 , Team: JU_Insomnia.<a href="https://goo.gl/UoJ3Lf">Reference link..</a><a href="https://goo.gl/SYps5V">Certification link.</a></li>
+             <li> Placed 3rd in baps-bubt national programming camp 2016.<a href="https://goo.gl/yA1UWY">Certification Link.</a> </li>
+             <li> Placed 4th in NSU Inter University Programming Contest Spring 2017.<a href="https://goo.gl/Af3HNC">Reference link.</a></li>
+              <li>Placed 5th in Bangladesh University of Engineering and Technology CSE Day 2016,Team: JU_MSB.</li>
+      <li> Placed 13th in ACM-ICPC Asia Dhaka Regional Contest 2016, Team: JU_Insomnia.(Reference link: https://goo.gl/n6K6aC Certification link : https://goo.gl/AUpVFU )</li>
+              <li>Placed 12th in ACM-ICPC Asia Dhaka Regional Contest 2017, Team: JU MSB.
+(Reference link: https://goo.gl/dAp7PT Certification link : https://goo.gl/4fAC5Q )</li>
+              <li>Placed 23rd in ACM-ICPC Asia Amritapuri Doublesite Regional Contest 2017,India,Team: JU_Insomnia.(Reference link: https://goo.gl/YWUs5q Certification link : https://goo.gl/bPsFdh )</li>
+              <li>Topcoder algorithm rating: 1295 (Maximum-1310), Handle: mahbubcseju(Reference Link: https://goo.gl/Y3acAE )</li>
+              <li>Codeforces rating: 2021 (Maximum-2021), Handle: mahbubcseju .</li>(Reference link: https://goo.gl/FMztdj )
+              <li> Earned 12 gold medals, 9 silver medals and 6 bronze medals in Hackerrank.
+Username: mahbubcseju.(Reference link: https://goo.gl/gSjast )</li>

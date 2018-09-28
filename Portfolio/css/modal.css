@@ -1,0 +1,26 @@
+div.text-container {
+    margin: 0 auto;
+    width: 75%;    
+}
+
+.text-content{
+    line-height: 1em;
+}
+
+.short-text {
+    overflow: hidden;
+    height: 2em;
+}
+
+.full-text{
+    height: auto;
+}
+
+h1 {
+    font-size: 24px;        
+}
+
+.show-more {
+    padding: 10px 0;
+    text-align: center;
+}
