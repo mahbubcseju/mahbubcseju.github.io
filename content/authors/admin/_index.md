@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Md Mahbubur Rahman
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # # Name pronunciation (optional)
+# name_pronunciation: Md Mahbubur Rahman
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Md Mahbubur
+last_name: Rahman
 
 # Status emoji
 status:
@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student at Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Iowa State University
+    url: https://www.iastate.edu//
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Causal Deep Learning
+  - Vulnerability Detection
+  - Software Engineering
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Student in Computer Science
+      institution: Iowa State University
+      year: 2025(Expected)
+    - course: MS in computer Science
+      institution: Iowa State University
+      year: 2023
+    - course: BSc in Computer Science and Engineering
+      institution: Jahangirnagar University
+      year: 2018
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -94,21 +94,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Q_SN8JAAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mahbubcseju
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mahbubcseju/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Md Mahbubur Rahman is currently pursuing a Ph.D. in Computer Science with a focus on AI for Code, Software Engineering, and Causal Deep Learning at Iowa State University, anticipated to be completed by May 2025. His research is concentrated on refining software engineering models through the application of causal deep learning and interpretability methodologies, aiming to enhance prediction accuracy and reliability. His master's thesis on "Causal Deep Learning for Vulnerability Detection" underscores his commitment to advancing the field.
+
+In his role as a Graduate Research Assistant at Iowa State University, Rahman spearheaded the CausalVul project, which applies do-calculus-based causal learning algorithms to improve transformer-based models for code vulnerability. His industry experience includes a tenure as a Full Stack Software Engineer at crowd-realty.com in Tokyo, where he led the development of REST APIs and data analysis initiatives, and as a Software Engineer at BJIT Inc., where he developed a Bluetooth service for Android and a sentiment-analysis chatbot. Rahman's expertise bridges the gap between advanced research and practical application in software engineering and AI.
 {style="text-align: justify;"}

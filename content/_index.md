@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,27 +62,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Graduate Research Assistant
+          company: Iowa State University
+          company_url: 'https://www.iastate.edu'
+          company_logo: isu
+          location: Ames, IA, USA
+          date_start: '2022-05-16'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Teaching Assistant
+          company: Iowa State University
+          company_url: 'https://www.iastate.edu'
+          company_logo: isu
+          location: Ames, IA, USA
+          date_start: '2021-08-16'
+          date_end: ''
+          # description: |2-
+          #     * CausalVul [1]: Leveraged do-calculus-based causal learning algorithms on top of existing transformer-based vulnerability detection models to systematically eliminate reliance on spurious features, enhancing causal-based predictions.
+          #     * Empirical Study on DL Models for Code Vulnerability [2]: Surveyed and reproduced 9 state-of-the-art DL models on the Devign and MSR datasets. Investigated model capabilities, training data effects, and interpretability, revealing key insights to improve model robustness and understandability.
+          #     * Working in causal deep learning and interpretability methodologies, my goal is to refine state-of-the-art software engineering models by identifying and eliminating the impact of spurious features, thus improving the accuracy and reliability of their predictions.
+        - title: Full Stack Software Engineer
+          company: Crowd Realty, Inc.
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: crowd_realty
+          location: Tokyo, Japan
+          date_start: '2019-11-01'
+          date_end: '2021-07-31'
+          # description: |2-
+          #     * AAPI & Notification System: Led the design and development of REST APIs using Python, Django, and Node.js. Further enhanced the system by integrating a notification delivery mechanism.
+          #     * OAuth-Based Authentication: Architectured and developed an API authentication system, leveraging OAuth for enhanced security and user authentication.
+          #     * Fintech Data Analysis: Leveraged statistical and deep learning algorithms for insightful fintech data analysis, driving data-driven decision-making processes.
+        - title: Software Engineer
+          company: BJIT Inc
+          company_url: ''
+          company_logo: bjit
+          location: Tokyo, Japan
+          date_start: '2018-11-01'
+          date_end: '2021-10-30'
+          # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -177,10 +193,10 @@ sections:
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: False
   - block: markdown
     content:
       title: Gallery
