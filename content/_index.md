@@ -253,7 +253,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
+      # subtitle:
       # text: |-
       #   You can directly mail me.
       # Contact (add or remove contact options as necessary)
@@ -275,29 +275,29 @@ sections:
       # coordinates:
       #   latitude: '37.4275'
       #   longitude: '-122.1697'  
-      # contact_links:
-      #   - icon: twitter
-      #     icon_pack: fab
-      #     name: DM Me
-      #     link: 'https://twitter.com/Twitter'
-      #   - icon: skype
-      #     icon_pack: fab
-      #     name: Skype Me
-      #     link: 'skype:echo123?call'
-      #   - icon: video
-      #     icon_pack: fas
-      #     name: Zoom Me
-      #     link: 'https://zoom.com'
+      contact_links:
+        - icon: facebook
+          icon_pack: fab
+          name: https://www.facebook.com/mahbubcseju/
+          link: 'https://www.facebook.com/mahbubcseju/'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # # Automatically link email and phone or display as text?
       # autolink: true
       # # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
