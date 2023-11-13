@@ -102,48 +102,63 @@ sections:
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  # - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://www.coursera.org
-  #         date_end: ''
-  #         date_start: '2021-01-25'
-  #         description: ''
-  #         icon: coursera
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         title: Neural Networks and Deep Learning
-  #         url: ''
-  #       - certificate_url: https://www.edx.org
-  #         date_end: ''
-  #         date_start: '2021-01-01'
-  #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         icon: edx
-  #         organization: edX
-  #         organization_url: https://www.edx.org
-  #         title: Blockchain Fundamentals
-  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #       - certificate_url: https://www.datacamp.com
-  #         date_end: '2020-12-21'
-  #         date_start: '2020-07-01'
-  #         description: ''
-  #         icon: datacamp
-  #         organization: DataCamp
-  #         organization_url: https://www.datacamp.com
-  #         title: 'Object-Oriented Programming in R'
-  #         url: ''
-  #   design:
-  #     columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Achievements'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - date_end: '2018-05-15'
+          date_start: '2013-01-25'
+          organization: Bangladesh
+          description: |2-
+              * 1st place recipient, Inter Dept. Programming Contest, Jahangirnagar University, Bangladesh, 2017.
+              * 2nd place recipient, Information Technology Professionals Exam(ITEE FE), Bangladesh, Oct. 2018.
+              * 3rd place recipient, National Collegiate Programing Contest, Bangladesh, 2017.
+              * 3rd place recipient, 9th ICT FEST, IUT, Bangladesh, 2017.
+              * 3rd place recipient, National Programming Camp, Bangladesh, 2016.
+              * 4th place recipient, Inter University Programming Contest, NSU, Bangladesh, 2017.
+              * 5th place recipient, CSE Day, BUET, Bangladesh, 2016.
+              * 12th place recipient, ACM-ICPC Asia Dhaka(Bangladesh) Regional Contest, Bangladesh, 2016.
+              * 50th place recipient, Google Kickstart - Round F, 2017.
+          title: Competitive Programming Excellence
+          url: ''
+        - date_end: '2018-05-15'
+          date_start: '2013-01-25'
+          organization: Codeforces, Codechef, Hackerrank etc.
+          description: |2-
+              * Codeforces - Max rating 2021 (Top 1%), Username: mahbubcseju.
+              * Codechef - Max rating 2309 (Top 1%), Username: mahbubcseju.
+              * Hackerrank - Max rating 2345 (Top 1%), 13 gold medals, 11 silver medals, 6 bronze medals, Username: mahbubcseju
+          title: Online Problem Solving Achievements
+          url: ''
+        # - certificate_url: https://www.edx.org
+        #   date_end: ''
+        #   date_start: '2021-01-01'
+        #   description: Formulated informed blockchain models, hypotheses, and use cases.
+        #   icon: edx
+        #   organization: edX
+        #   organization_url: https://www.edx.org
+        #   title: Blockchain Fundamentals
+        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:
