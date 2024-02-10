@@ -3,7 +3,7 @@ title: Seeking Teammates for Exciting ML Shared Tasks!
 date: '2024-02-10'
 summary: Want to get ready for the industry?
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
