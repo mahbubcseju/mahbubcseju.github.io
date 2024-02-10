@@ -25,7 +25,7 @@ organizations:
     url: https://www.iastate.edu//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI for Code, Software Engineering and Deep Learning.
 
 # Interests to show in About widget
 interests:
